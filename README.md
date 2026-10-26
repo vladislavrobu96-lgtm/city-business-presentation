@@ -4,6 +4,8 @@ A 20-slide presentation on urban life and entrepreneurship. Minimalist design: a
 
 A self-initiated portfolio project.
 
+**[Open the PDF](Life-in-a-Big-City-and-Business.pdf)**
+
 ## Outline
 
 | # | Slide | Key point |
